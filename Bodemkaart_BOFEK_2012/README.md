@@ -21,12 +21,8 @@ Het bestand bevat de volgende attributen:
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-|BOFEK2012 | 101  | Nummer van de bofekeenheid voor koppeling met de profielschets waarin de
-bodemopbouw schematisch wordt weergegeven. |
-|PAWN          |  1 | Nummer van de PAWN-eenheid. Dit is een globale indeling van de bodemopbouw naar
-bodemfysisch gedrag in 23 eenheden (Wosten, J.H.M., F.de Vries, J. Dennboom en A.F. van
-Holst, 1988. Generalisatie en bodemfysische vertaling van de bodemkaart van Nederland, 1 :
-250 000, ten behoeve van de PAWN-studie. Wageningen, Stiboka, rapport 2055) | 
+|BOFEK2012 | 101  | Nummer van de bofekeenheid voor koppeling met de profielschets waarin de bodemopbouw schematisch wordt weergegeven. |
+|PAWN          |  1 | Nummer van de PAWN-eenheid. Dit is een globale indeling van de bodemopbouw naar bodemfysisch gedrag in 23 eenheden (Wosten, J.H.M., F.de Vries, J. Dennboom en A.F. van Holst, 1988. Generalisatie en bodemfysische vertaling van de bodemkaart van Nederland, 1 : 250 000, ten behoeve van de PAWN-studie. Wageningen, Stiboka, rapport 2055) | 
 
 
 
