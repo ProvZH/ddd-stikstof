@@ -8,7 +8,9 @@ De gebruiker van het perceel dient jaarlijks zijn actuele gewaspercelen in te te
 
 De bestanden worden geleverd in het ESRI format File-Geodatabase (versie 9.3)
 
-Jaren beschikbaar: 2009 tot en met 2018
+**Jaren beschikbaar:** 2009 tot en met 2018
+
+**Projectie:** Amersfoort / RD New EPSG:28992
 
 **Bron url:** https://www.pdok.nl/introductie?articleid=1948958
 
