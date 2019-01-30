@@ -15,5 +15,5 @@ DataDomeinDagen Stikstof
 | Beweiden / Bemesten | :radio_button: WUR set  | --  | WUR INITIATOR, wachten op uitspraak commissie   |
 | Wonen / Werken | :ballot_box_with_check: BAG  | :radio_button: Grid 500x500 | Wonen: op basis van type woning en bouwjaar. Werken: op basis van m2 BVO  |
 | Rijnmond industrie / scheepvaart | :ballot_box_with_check: HIC set   | Set van HbR ontvangen (ook andere jaren)  |
-| Overige industrie| :ballot_box_with_check: DCMR  | --  | :radio_button: PDF met de grootste vervuilers binnen de PZH. |
+| Overige industrie| :ballot_box_with_check: DCMR  | --  | :large_orange_diamond: PDF met de grootste vervuilers binnen de PZH, omzetten naar data |
 | Depositieopbouw | :ballot_box_with_check: RIVM  | --  | Hexgrid met totale depositie + opbouw |
