@@ -11,4 +11,4 @@ DataDomeinDagen Stikstof
 | Beweiden / Bemesten | :radio_button: WUR set  | --  | WUR INITIATOR, wachten op uitspraak commissie   |
 | Wonen / Werken | ✔ BAG  | :radio_button: Grid 500x500 | -- |
 | Rijnmond industrie / scheepvaart | ✔ HbR set   | --  |
-| OVerige industrie| ✔ DCMR  | --  | 
+| Overige industrie| ✔ DCMR  | --  | :radio_button: PDF met de grootste vervuilers binnen de PZH. |
