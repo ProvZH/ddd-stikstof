@@ -3,9 +3,12 @@ DataDomeinDagen Stikstof
 
 # Overzicht datasets:
 
+:radio_button: -> mee bezig
+✔ -> binnengehaald
+
 | Titel         | Bronnen       | Emissieregistratie | Opmerkingen |
 | ------------- | ------------- | ------------- | ------------- |
-| Verkeer  | ✔ NSL-monitordata | --  | Content Cell  |
+| Verkeer  | ✔ NSL-monitordata | :radio_button: Grid 500x500  | Content Cell  |
 | Landbouw | ✔ RVO  | --  | Content Cell  |
 | Glastuinbouw | :radio_button: LGN7  | :radio_button: Grid 500x500  |   |
 | Beweiden / Bemesten | :radio_button: WUR set  | --  | WUR INITIATOR, wachten op uitspraak commissie   |
