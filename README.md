@@ -4,14 +4,15 @@ DataDomeinDagen Stikstof
 # Overzicht datasets:
 
 :radio_button: -> mee bezig
-:ballot_box_with_check: -> binnengehaald
+:ballot_box_with_check: -> beschikbaar
 :large_orange_diamond: -> nog achteraan gaan
 
 | Titel         | Bronnen       | Emissieregistratie | Opmerkingen |
 | ------------- | ------------- | ------------- | ------------- |
 | Verkeer  | :ballot_box_with_check: NSL-monitordata | :ballot_box_with_check: Grid 500x500  | Op basis van licht/midden/zwaar verkeer, files etc. Velden zijn aanwezig in NSL data  |
 | Landbouw | :ballot_box_with_check: RVO  | --  | Stalemissies e.d. aanwezig in RVO dataset  |
-| Glastuinbouw | :large_orange_diamond: LGN7  | :ballot_box_with_check: Grid 500x500  | RIVM emissies opgebouwd  |
+| Glastuinbouw | 
+:ballot_box_with_check: LGN7  | :ballot_box_with_check: Grid 500x500  | RIVM emissies opgebouwd  |
 | Beweiden / Bemesten | :ballot_box_with_check: WER set  | --  | WER INITIATOR, wachten op uitspraak commissie   |
 | Wonen / Werken | :ballot_box_with_check: BAG  | :ballot_box_with_check: Grid 500x500 | Wonen: op basis van type woning en bouwjaar. Werken: op basis van m2 BVO  |
 | Rijnmond industrie / scheepvaart | :ballot_box_with_check: HIC set   | Set van HbR ontvangen (ook andere jaren)  |
