@@ -92,27 +92,10 @@
 
 ## Aanvullende datasets
 
-
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
-
-Default grid
-Maatregelen lijst
-
-
-# Overzicht datasets:
-
-
-| Directory | Titel         | Bronnen       | Emissieregistratie | Opmerkingen |
-|-----------| ------------- | ------------- | ------------- | ------------- |
-|[Verkeer_verkeer](./Verkeer_verkeer)| Verkeer  | :ballot_box_with_check: NSL-monitordata | :ballot_box_with_check: Grid 500x500  | Op basis van licht/midden/zwaar verkeer, files etc. Velden zijn aanwezig in NSL data  |
-|[RVO_landbouwtellingen](./RVO_landbouwtellingen)| Landbouw | :ballot_box_with_check: RVO  | --  | Stalemissies e.d. aanwezig in RVO dataset  |
-|[]()| Glastuinbouw | :ballot_box_with_check: LGN7  | :ballot_box_with_check: Grid 500x500  | RIVM emissies opgebouwd  |
-|[INITIATOR_beweiden_bemesten](./INITIATOR_beweiden_bemesten)| Beweiden / Bemesten | :ballot_box_with_check: WER set  | --  | WER INITIATOR, wachten op uitspraak commissie   |
-|[]()| Wonen / Werken | :ballot_box_with_check: BAG  | :ballot_box_with_check: Grid 500x500 | Wonen: op basis van type woning en bouwjaar. Werken: op basis van m2 BVO  |
-|[]()| Rijnmond industrie / scheepvaart | :ballot_box_with_check: HIC set   | Set van HbR ontvangen (ook andere jaren)  |
-|[]()| Overige industrie| :ballot_box_with_check: DCMR  | --  | :large_orange_diamond: PDF met de grootste vervuilers binnen de PZH, omzetten naar data |
-|[RIVM_depositieopbouw](./RIVM_depositieopbouw)| Depositieopbouw | :ballot_box_with_check: RIVM  | --  | Hexgrid met totale depositie + opbouw |
+| [Maatregelen](./Maatregelen)| CSV | Maatregelingen | maatregelen en kosten baten inschatting | PZH |:ballot_box_with_check: |
+| [Default_grid_500](./Default_grid_500)| feature | Default grid | standaard aggreagtie grid 500x500 m | PZH | :ballot_box_with_check: |
 
 
 ## Voorwaarden data RVO en RIVM
