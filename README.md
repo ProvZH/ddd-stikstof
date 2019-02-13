@@ -54,7 +54,7 @@
 
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
-|   [Verkeer_verkeer](./Verkeer_verkeer)|  features? |  verkeer  | Op basis van licht/midden/zwaar verkeer, files etc. Velden zijn aanwezig in NSL data| NSL-monitordata | :ballot_box_with_check: |
+|   [NSL_monitordata](./NSL_monitordata)|  features? |  verkeer  | Op basis van licht/midden/zwaar verkeer, files etc. Velden zijn aanwezig in NSL data| NSL-monitordata | :ballot_box_with_check: |
 |          | GRID | Verkeer | | EmissieRegistratie | :ballot_box_with_check:|
 
 **Voorwaarden gebruik:** Open data
