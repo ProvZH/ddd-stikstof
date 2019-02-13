@@ -18,7 +18,7 @@
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
 |[INITIATOR_beweiden_bemesten](INITIATOR_beweiden_bemesten) | GRID  |Beweiden bemesten | 100X100 Amoniak concentratie | INITIATOR | :ballot_box_with_check:| 
-|                        | GRID  |Beweiden bemesten | 500X500 | PZH  | Nog maken?| 
+|                        | GRID  |Beweiden bemesten | 500X500 | PZH  | :large_orange_diamond:| 
 
 **Voorwaarden gebruik:** Zie README.md
 
@@ -29,7 +29,8 @@
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
 | [HIC_havenbedrijf](HIC_havenbedrijf)    |     features   |Rijnmond industrie / scheepvaart | Datasets van Rijnmond gebied | HbR | :ballot_box_with_check:|
-|     | GRID   |  | 500x500 |           |           |
+|     | GRID   |Industrie | 500x500 |           |:ballot_box_with_check:|
+|     | GRID   |Scheepsvaart| 500x500 |         |:large_orange_diamond:|
 
 **Voorwaarden gebruik:** Intern houden. PZH is bronhouder.
 
@@ -38,9 +39,9 @@
 
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
-|   [DCMR_overige_industrie](DCMR_overige_industrie)  |   features | Overige industrie    |  Industrie uitstoot (buiten havengebied) | DCMR | Als pdf |
+|   [DCMR_overige_industrie](DCMR_overige_industrie)  |   features | Overige industrie    |  Industrie uitstoot (buiten havengebied) .pdf | DCMR | :ballot_box_with_check: |
 |     | Table   |  | excel |           |:radio_button:|
-|     | GRID   |  | 500x500 |           |           |
+|     | GRID   |  | 500x500 |           |:large_orange_diamond:|
 
 
 **Voorwaarden gebruik:** ??? 
@@ -63,7 +64,8 @@
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
 | [BAG_wonen_werken](./BAG_wonen_werken) |feature| BAG |BAG| BAG |:ballot_box_with_check: |
-|     | GRID   |  | 500x500 |   PZH      |wordt aan gewerkt|
+| [BAG_wonen_werken](./BAG_wonen_werken) |feature| BAG |BAG specifieke extract | PZH |:radio_button: |
+|     | GRID   |  | 500x500 |   Emissieregistratie      |:ballot_box_with_check:|
 
 **Voorwaarden gebruik:** Open data
 
@@ -74,7 +76,7 @@
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
 | [LGN7_landgebruik](./LGN7_landgebruik) |feature| LGN7 landgebruik |Uitsnede PZH van LGN7 landgebruik in GDB| RIVM |:ballot_box_with_check: |
-|     | GRID   |  | 500x500 |           |           |
+|     | GRID   |  | 500x500 |Emissieregistratie|:ballot_box_with_check:|
 
 **Voorwaarden gebruik:** [2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf](2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf)
 
