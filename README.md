@@ -20,7 +20,7 @@
 
 ## Voorwaarden data RVO en RIVM
 
-Het bestand [019.01.30 Stikstof casus_Maatregelen ter bescherming data_TOP.pdf ](2019.01.30_Stikstof_casus_Maatregelen ter_bescherming_data_TOP.pdf) bevat : 
+Het bestand [2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf](2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf) bevat : 
 
 1. het verzoek zoals geformuleerd aan de externe partijen
 2. de algemene voorwaarden zoals gesteld door de externe partijen, 
