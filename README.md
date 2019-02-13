@@ -1,5 +1,6 @@
 # DataDomeinDagen Stikstof Casus
 
+![Visual](visual_workproces.png)
 
 :radio_button: -> mee bezig
 :ballot_box_with_check: -> beschikbaar
@@ -17,7 +18,7 @@
 
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
-|[INITIATOR_beweiden_bemesten](INITIATOR_beweiden_bemesten) | GRID  |Beweiden bemesten | 100X100 Amoniak concentratie | INITIATOR | :ballot_box_with_check:| 
+|[INITIATOR_beweiden_bemesten](INITIATOR_beweiden_bemesten) | GRID  |Beweiden bemesten | 100X100 Amoniak concentratie | WUR INITIATOR | :ballot_box_with_check:| 
 |                        | GRID  |Beweiden bemesten | 500X500 | PZH  | :large_orange_diamond:| 
 
 **Voorwaarden gebruik:** Zie README.md
@@ -53,13 +54,12 @@
 
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
-|   [Verkeer_verkeer](./Verkeer_verkeer)|  features? |  verkeer  | | NSL-monitordata | :ballot_box_with_check: |
+|   [Verkeer_verkeer](./Verkeer_verkeer)|  features? |  verkeer  | Op basis van licht/midden/zwaar verkeer, files etc. Velden zijn aanwezig in NSL data| NSL-monitordata | :ballot_box_with_check: |
 |          | GRID | Verkeer | | EmissieRegistratie | :ballot_box_with_check:|
 
 **Voorwaarden gebruik:** Open data
 
-## Wonen
-
+## Emissie data Wonen
 
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
