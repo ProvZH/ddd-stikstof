@@ -1,10 +1,105 @@
 # DataDomeinDagen Stikstof Casus
 
-# Overzicht datasets:
 
 :radio_button: -> mee bezig
 :ballot_box_with_check: -> beschikbaar
 :large_orange_diamond: -> nog achteraan gaan
+
+## Emissie data Landbouw
+
+| Directory              | feature | titel | Beschrijving | Data Bron | Aanwezig? | 
+|----                    | ------- |-------| -------------| ----------|-----------|
+| [RVO_landbouwtellingen](./RVO_landbouwtellingen)  | Punt Bronnen | Stal Emissies | Punten met stal emissies, dier aantallen etc. | RVO | :ballot_box_with_check: |
+| []()                   | GRID    | ? | 500x500 aggregatie grid | Emissieregistratie | :ballot_box_with_check:|
+
+**Voorwaarden gebruik:** [2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf](2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf)
+
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+|[INITIATOR_beweiden_bemesten](INITIATOR_beweiden_bemesten) | GRID  |Beweiden bemesten | 100X100 Amoniak concentratie | INITIATOR | :ballot_box_with_check:| 
+|                        | GRID  |Beweiden bemesten | 500X500 | PZH  | Nog maken?| 
+
+**Voorwaarden gebruik:** Zie README.md
+
+## Emissie data Industrie & Scheepsvaart 
+
+**Data bron:** Rijnmond industrie / scheepvaart. Set van HbR 
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+| [HIC_havenbedrijf](HIC_havenbedrijf)    |     features   |Rijnmond industrie / scheepvaart | Datasets van Rijnmond gebied | HbR | :ballot_box_with_check:|
+|     | GRID   |  | 500x500 |           |           |
+
+**Voorwaarden gebruik:** Intern houden. PZH is bronhouder.
+
+
+**Data bron:** DCMR
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+|   [DCMR_overige_industrie](DCMR_overige_industrie)  |   features | Overige industrie    |  Industrie uitstoot (buiten havengebied) | DCMR | Als pdf |
+|     | Table   |  | excel |           |:radio_button:|
+|     | GRID   |  | 500x500 |           |           |
+
+
+**Voorwaarden gebruik:** ??? 
+
+
+## Emissie data Verkeer
+
+**Data bron:**  
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+|   [Verkeer_verkeer](./Verkeer_verkeer)|  features? |  verkeer  | | NSL-monitordata | :ballot_box_with_check: |
+|          | GRID | Verkeer | | EmissieRegistratie | :ballot_box_with_check:|
+
+**Voorwaarden gebruik:** Open data
+
+## Wonen
+
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+| [BAG_wonen_werken](./BAG_wonen_werken) |feature| BAG |BAG| BAG |:ballot_box_with_check: |
+|     | GRID   |  | 500x500 |   PZH      |wordt aan gewerkt|
+
+**Voorwaarden gebruik:** Open data
+
+
+## Emissie data Glastuinbouw
+
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+| [LGN7_landgebruik](./LGN7_landgebruik) |feature| LGN7 landgebruik |Uitsnede PZH van LGN7 landgebruik in GDB| RIVM |:ballot_box_with_check: |
+|     | GRID   |  | 500x500 |           |           |
+
+**Voorwaarden gebruik:** [2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf](2019-01-30_Stikstofcasus_Maatregelen_ter_bescherming_data_TOP.pdf)
+
+
+
+## Depositie Data : Totale depositie opbouw 
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+|[RIVM_depositieopbouw](./RIVM_depositieopbouw)| Hexagonen | Totale depositie | 1ha Hexagonen grid met depostie per sector | RIVM | :ballot_box_with_check: |
+
+ **Voorwaarden gebruik:**??
+
+## Aanvullende datasets
+
+
+| Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
+|----                    | ------- |-------| -------------|----------|----------|
+
+Default grid
+Maatregelen lijst
+
+
+# Overzicht datasets:
+
 
 | Directory | Titel         | Bronnen       | Emissieregistratie | Opmerkingen |
 |-----------| ------------- | ------------- | ------------- | ------------- |
