@@ -63,8 +63,8 @@
 
 | Directory              | feature | titel | Beschrijving |Data Bron |Aanwezig? | 
 |----                    | ------- |-------| -------------|----------|----------|
-| [BAG_wonen_werken](./BAG_wonen_werken) |feature| BAG |BAG| BAG |:ballot_box_with_check: |
-| [BAG_wonen_werken](./BAG_wonen_werken) |feature| BAG |BAG specifieke extract | PZH |:radio_button: |
+| [BAG_wonen_en_werken](./BAG_wonen_en_werken) |feature| BAG |BAG| BAG |:ballot_box_with_check: |
+| [BAG_wonen_en_werken](./BAG_wonen_en_werken) |feature| BAG |BAG specifieke extract | PZH |:radio_button: |
 |     | GRID   |  | 500x500 |   Emissieregistratie      |:ballot_box_with_check:|
 
 **Voorwaarden gebruik:** Open data
