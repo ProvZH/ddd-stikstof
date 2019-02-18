@@ -6,6 +6,8 @@ Default grid met vierkanten van 500 bij 500 meter .
 
 In PI database aanwezig 
 
+[Default grid](voorbeeld.png)
+
 **SCHEMA:** CORRIDOR_WEEK
 **TABLE NAME:**
 
