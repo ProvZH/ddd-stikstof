@@ -18,6 +18,6 @@ PDF met de grootste vervuilers binnen de PZH.
 
 | Attribuut             |  Voorbeeld  | 	Omschrijving |
 | --------------------- | ------------| -----------------|
-| Bedrijfsnaam             |  <naam>  | 	 |
+| Bedrijfsnaam             |  --  | 	Bedrijf dat de uitstoot veroorzaakt |
 | Component             |  NH3  | 	Stof die wordt uitgestoten (NOx, NH3, CO2) |
 | 2007 | 5,8 | Aantal mol dat wordt uigestoten van deze stof. 2007 tm 2015
