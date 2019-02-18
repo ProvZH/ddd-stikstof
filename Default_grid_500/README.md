@@ -13,4 +13,6 @@ In PI database aanwezig
 
 | Attribuut          | Voorbeeld | Beschrijving | 
 |----------         |-----------|--------------|
-| ID| 001| Unieke ID van vierkant | 
+| AI_CODE | 07154195 | Unieke ID van vierkant | 
+| x_lo | ... | x-coordinaat linker onderhoek | 
+| y_lo | ... | y-coordinaat linker onderhoek |
